@@ -1,0 +1,118 @@
+body{
+	
+	font-family:sans-serif;
+}
+#logo{
+	
+	padding:30px;
+text-align:center;
+margin-top:125px;
+}
+#sb input{
+
+width:500px;
+padding:9px 8px;
+margin-top:20px;
+border-radius:20px;
+border:1px solid #ccc;
+background:url('https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-25-512.png'),url('https://cdn3.iconfinder.com/data/icons/video-player-1/154/search-find-magnifier-function-player-keyword-name-512.png');
+
+background-repeat:no-repeat;
+background-size:30px,20px;
+background-position:right 15px center ,left 15px center ;
+
+
+}
+
+input:focus{
+outline:none;
+box-shadow:2px 3px 4px 2px #ccc;	
+
+}
+.btn{
+	padding:12px 24px;
+	border:none;
+	border-radius:15px;
+	margin-top:30px;
+margin-right:10px;
+}
+.btn:hover {
+	border:1px solid black;
+	border-radius:15px;
+	
+}
+
+#languages ol  {
+	list-style:none;
+	text-align:center;
+	text-decoration:none;
+	margin-top:10px;
+	font-size:13px;
+	
+
+
+	
+}
+#languages ol li{
+	display:inline;
+	margin-right:8px;	
+}
+
+#languages ol li a{
+	text-decoration:none;
+}
+footer{
+
+	position:fixed;
+	bottom:0;
+	padding:15px;
+	background-color:#F2F2F2;
+	width:100%;
+	
+}
+footer ul li{
+	display:inline;
+	padding-right:15px;
+	
+}
+footer ul li a {
+	text-decoration:none;
+	color:black;
+	
+}
+
+footer ul li a:hover {
+	text-decoration:underline blue;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
